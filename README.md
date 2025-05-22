@@ -3,6 +3,11 @@
 Developed by: **Priyansh Srivastava**
 Email: [priyansh.sriv03@gmail.com](mailto:priyansh.sriv03@gmail.com)
 
+🔴 **[Click here to view the Live Demo](https://9000-firebase-studio-1747917962006.cluster-ancjwrkgr5dvux4qug5rbzyc2y.cloudworkstations.dev/?monospaceUid=280597&embedded=0)**  
+_(Opens Firebase Studio workspace in a browser)_
+
+
+
 Todo Summary Assistant is a Next.js application designed to help you manage your to-do list efficiently. It leverages Firebase Firestore for real-time data storage and Genkit with Google's Gemini API for intelligent task summarization, perfect for quick Slack updates.
 
 ## Features
